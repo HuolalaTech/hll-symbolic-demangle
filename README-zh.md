@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](https://raw.githubusercontent.com/HuolalaTech/hll-symbolic-demangle/master/LICENSE) 
+[![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](https://github.com/HuolalaTech/hll-symbolic-demangle/blob/main/LICENSE.txt) 
 
 > [English](https://github.com/huolalatech/hll-symbolic-demangle/blob/master/README.md) | 
 
